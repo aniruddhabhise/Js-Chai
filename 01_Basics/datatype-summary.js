@@ -2,6 +2,12 @@
 
 // 7 Types :- Number , String , Boolean , Null , Undefined , BigInt , Symbol
 
+// when we try to copy them all values are copied
+// call by value = copy version
+
+//In JavaScript, primitive types are copied by value (creating a new, independent copy), 
+// while non-primitive types are copied by reference (pointing to the same memory location).
+
 const rollNo=33
 
 const name="ani"
